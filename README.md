@@ -11,7 +11,6 @@ screehshot -> 스크린샷 사진들
 
 해당 룰을 적용하여 각각 유형에 따른 폴더에 분할 저장해주는 기능을 수행합니다. 
 
-
 ![image](https://github.com/Lee-Soojin/Photo/assets/76468868/510518c4-78db-4da0-b046-08955f379d1a)
 
 ![image](https://github.com/Lee-Soojin/Photo/assets/76468868/7ab71d3f-290a-451b-a026-676db73e7239)
